@@ -6,4 +6,4 @@
     mvn clean install
     
 add the showcasePrimeGit.war in a tomcat
-showcasePrimGit\target\showcasePrimeGit.war
+*\target\showcasePrimeGit.war
